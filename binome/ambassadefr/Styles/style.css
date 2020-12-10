@@ -1,0 +1,260 @@
+.nav{
+    border: gray solid 2px;
+    height: 50px;
+}
+}
+.container-fluid .nav a::after{
+        content: "|";
+        font-size: 20px;
+        color: gray;
+}
+.container .first{
+    margin-top: 40px;
+    margin-left: 100px;
+    padding-left: 20px;
+}
+.container .para1{
+    margin-left: 70px;
+}
+.container .second{
+    margin-top: 40px;
+}
+footer .container-fluid{
+    height: 200px;
+    background-color: black;
+    color: white;
+}
+.border_bottom{
+    border-bottom:white solid 3px ;
+}
+
+
+
+
+/*actualites*/
+.actublue{
+    background-color: blue;
+}
+.gray{
+    border-top: blue 3px solid;
+    border-bottom: solid 1px gray;
+    border-left: solid 1px gray;
+    border-right: solid 1px gray;
+    margin-bottom: 30px;
+}
+.bluesky{
+    background-color: rgb(224, 238, 252);
+    height: 100px;
+    border-left: blue solid 2px;
+}
+.drt{
+    border-top: blue 3px solid;
+    border-bottom: solid 1px gray;
+    border-left: solid 1px gray;
+    border-right: solid 1px gray;
+    height: 100px;
+}
+.drt .drt1{
+    border-top: gray 0.5px solid;
+}
+.dr{
+    border: black solid 1px;
+    justify-content: center;
+    background-color:rgb(248, 247, 247);
+}
+
+/*consulat*/
+.conblue{
+    background-color: blue;
+}
+.test{
+    line-height: 30px;
+}
+.ptitbluesky{
+    background-color: rgb(224, 238, 252);
+    height: 50px;
+}
+.greatbluesky{
+    background-color: rgb(224, 238, 252);
+    height: 200px;
+}
+.lastitem{
+    border-top: gray 1px solid;
+}
+.click{
+    opacity: 0;
+}
+.leftxt{
+    border: gray solid 1px;
+}
+
+
+/*cooperation*/
+.cooblue{
+    background-color: blue;
+}
+.body
+    background-color: rgb(255, 255, 255);
+}
+.codrt{
+    border-top: blue solid 3px;}
+.top{
+    border-top:blue 4px solid;
+    border-right: gray 2px solid;
+    border-left: gray 2px solid;
+    border-bottom: gray 2px solid;
+    margin-top: 24px;
+    height: 100px;
+    margin-left: 20px;
+}
+.bottom{
+    border: gray 2px solid;
+    margin-top: 30px;
+    height: 200px;
+    margin-left: 20px;
+    background-color: rgb(255, 255, 255);;
+}
+.greatpart{
+    border: blue solid 2px;
+    height: 800px;
+    border-top: 3px solid red;
+}
+.greatpart h3{
+    border-bottom: solid 1px gray;
+    padding: 10px;
+}
+.smallone{
+    height: 800px;
+    margin-left: 30px;
+
+}
+.flex{
+    display: flex;
+}
+.gauch{
+    margin-left: 2px;
+}
+.bdb{
+    border: rgb(195, 193, 193) 1px solid;
+    background-color: #fff;
+}
+.access{
+}
+.access{
+    margin-top: 30px;
+}
+.a{
+    border-top: blue 4px solid;
+}
+.third{
+    display: flex;
+}
+.flx{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 30px;
+    
+}
+.flx1{
+    right: 20px;
+    border-top: blue 3px solid;
+    border-left: gray 1px solid;
+    border-bottom: gray 1px solid;
+    border-right: gray 1px solid;
+    height: 150px;
+    margin-right: 39px;
+}
+.flx2{
+    border-top: blue 3px solid;
+    border-left: gray 1px solid;
+    border-bottom: gray 1px solid;
+    border-right: gray 1px solid;
+    height: 230px;
+    margin-left:30px ;
+}
+.flx3{
+    border-top: blue 3px solid;
+    border-left: gray 1px solid;
+    border-bottom: gray 1px solid;
+    border-right: gray 1px solid;
+    height: 450px;
+    position: relative;
+    margin-right: 60px;
+}
+.flee1{
+    border-top: blue 3px solid;
+    border-left: gray 1px solid;
+    border-bottom: gray 1px solid;
+    border-right: gray 1px solid;
+    position: relative;
+    margin-top: -280px;
+}
+.flee2{
+    position: relative;
+    margin-left: 120px;
+    margin-top: -210px;
+}
+/*venir en France*/
+.alblue{
+    background-color: blue;
+}
+.allefr{
+    margin-top: 40px;
+    height: 550px;
+}
+.allefr1{
+    border-top: 4px blue solid;
+    border-bottom: 1px gray solid;
+    border-left: 1px gray solid;
+    border-right: 1px gray solid;
+}
+.allefr2{
+    padding: 10px;
+    border-top: 1px solid gray;
+}
+/*venir au Burkina*/
+.veblue{
+    background-color: blue;
+}
+/*espace presse*/
+.corp{
+    width: 100%;
+    color: rgb(0, 0, 0);
+    background-color:rgb(255, 255, 255);
+    height: 700px;
+}
+.esp{
+    border-top: blue solid 4px;
+    border-bottom: solid gray 1px;
+    border-right: solid gray 1px;
+    border-left: solid gray 1px;
+}
+.esp1{
+    border-top: blue solid 4px;
+    margin-left: 40px;
+    border-bottom: solid gray 1px;
+    border-right: solid gray 1px;
+    border-left: solid gray 1px;
+    height: 100px;
+}
+
+.esp2{
+    border-top:gray solid 1px;
+    margin-left: 40px;
+    border-bottom: solid gray 1px;
+    border-right: solid gray 1px;
+    border-left: solid gray 1px;
+    height: 200px;
+    margin-top: 30px;
+.espace{
+    margin-top: 40px;
+    height: 600px;
+    margin-bottom: 40px;
+}
+.espace h3{
+    border-bottom: solid 1px gray;
+    padding: 10px;
+}
+.haut{
+    border-top: solid gray 1px;
+}
